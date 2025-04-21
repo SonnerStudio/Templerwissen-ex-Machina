@@ -5,7 +5,8 @@
 Das Programm ermöglicht den Zugriff auf eine kuratierte Sammlung von Inhalten, die sich mit Geschichte, Symbolik, Architektur
 und Philosophie des Templerordens beschäftigen – vollständig offline, ohne KI oder Cloudanbindung.
 
-> „ex Machina“ steht hier für das bewusste Handeln *aus der Maschine heraus* – der Mensch bedient die Software, nicht umgekehrt.
+> „ex Machina“ steht hier für das bewusste Handeln *aus der Maschine heraus*
+– der Mensch bedient die Software, nicht umgekehrt.
 
 ---
 
