@@ -26,10 +26,10 @@ Es basiert vollständig auf manueller Steuerung und Nutzerinteraktion – der Fo
 
 ## 🔒 Lizenz
 
-[![Creative Commons License](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+GNU Lesser General Public License Version 3 (LGPL v3)
 
 **Templerwissen ex Machina** von **Jan Friske & SonnerStudio** ist lizenziert unter einer  
-[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de).
+GNU Lesser General Public License Version 3 (LGPL v3)
 
 Das bedeutet:
 
