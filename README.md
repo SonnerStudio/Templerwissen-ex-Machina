@@ -103,8 +103,9 @@ Rückmeldungen, Vorschläge oder technische Unterstützung sind willkommen.
 
 ## 📜 Lizenz
 
-Das Projekt ist proprietär oder wird unter einer noch zu definierenden Lizenz veröffentlicht.
-Bitte kontaktiere den Autor vor Weiterverwendung oder Verbreitung.
+Das Projekt ist unter einer:
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) Lizenz veröffentlicht.
+
 
 ---
 
