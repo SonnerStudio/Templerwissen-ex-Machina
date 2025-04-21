@@ -60,5 +60,3 @@ Fragen, Anmerkungen oder Zusammenarbeit?
 ---
 
 *„Wissen zu teilen, ist ein Akt des Vertrauens – Wissen zu hüten, ein Zeichen der Verantwortung.“*
-```
-
