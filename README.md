@@ -1,8 +1,9 @@
 ```markdown
 # 🏛️ Templerwissen ex Machina
 
-**Templerwissen ex Machina** ist eine manuell gesteuerte, interaktive Wissensanwendung zur Erkundung der Welt der Tempelritter.
-Das Programm ermöglicht den Zugriff auf eine kuratierte Sammlung von Inhalten, die sich mit Geschichte, Symbolik, Architektur
+**Templerwissen ex Machina** ist eine manuell gesteuerte, interaktive Wissensanwendung
+zur Erkundung der Welt der Tempelritter. Das Programm ermöglicht den Zugriff auf eine
+kuratierte Sammlung von Inhalten, die sich mit Geschichte, Symbolik, Architektur
 und Philosophie des Templerordens beschäftigen – vollständig offline, ohne KI oder Cloudanbindung.
 
 > „ex Machina“ steht hier für das bewusste Handeln *aus der Maschine heraus*
@@ -12,16 +13,18 @@ und Philosophie des Templerordens beschäftigen – vollständig offline, ohne K
 
 ## 🎯 Ziel des Projekts
 
-Ziel ist es, ein Werkzeug zur Verfügung zu stellen, das Nutzer:innen befähigt, sich eigenständig mit den geistigen, kulturellen
-und historischen Aspekten der Templer auseinanderzusetzen. Im Fokus stehen Übersichtlichkeit, Tiefe und eigenständige Navigation
-– kein automatisiertes Generieren oder Interpretieren von Inhalten.
+Ziel ist es, ein Werkzeug zur Verfügung zu stellen, das Nutzer:innen befähigt,
+sich eigenständig mit den geistigen, kulturellen und historischen Aspekten der
+Templer auseinanderzusetzen. Im Fokus stehen Übersichtlichkeit, Tiefe und
+eigenständige Navigation – kein automatisiertes Generieren oder Interpretieren von Inhalten.
 
 ---
 
 ## 🔐 Geschützter Bereich
 
-Das Programm enthält einen passwortgeschützten Abschnitt, der ausschließlich Mitgliedern des Templerordens vorbehalten ist.
-Dieser Bereich ist für Inhalte gedacht, die spezielles Hintergrundwissen oder eine besondere Zugangsberechtigung voraussetzen.
+Das Programm enthält einen passwortgeschützten Abschnitt, der ausschließlich Mitgliedern
+des Templerordens vorbehalten ist. Dieser Bereich ist für Inhalte gedacht, die spezielles
+Hintergrundwissen oder eine besondere Zugangsberechtigung voraussetzen.
 
 ---
 
@@ -84,14 +87,16 @@ TemplerwissenExMachina/
 
 ## 📅 Status
 
-Die Software befindet sich in aktiver Entwicklung. GUI, Strukturierung der Module und Passwortbereich sind in Bearbeitung.
-Technische Herausforderungen wie das vcpkg-Setup und Qt6-Integration sind weitgehend gelöst.
+Die Software befindet sich in aktiver Entwicklung. GUI, Strukturierung 
+der Module und Passwortbereich sind in Bearbeitung. Technische
+Herausforderungen wie das vcpkg-Setup und Qt6-Integration sind weitgehend gelöst.
 
 ---
 
 ## 🤝 Beteiligung
 
-Dieses Projekt richtet sich in erster Linie an historisch, kulturell und spirituell Interessierte mit Bezug zum Templerorden.
+Dieses Projekt richtet sich in erster Linie an historisch,
+kulturell und spirituell Interessierte mit Bezug zum Templerorden.
 Rückmeldungen, Vorschläge oder technische Unterstützung sind willkommen.
 
 ---
