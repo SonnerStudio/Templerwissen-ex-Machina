@@ -1,117 +1,64 @@
-```markdown
-# 🏛️ Templerwissen ex Machina
+# 🏰 Templerwissen ex Machina
 
-**Templerwissen ex Machina** ist eine manuell gesteuerte, interaktive Wissensanwendung
-zur Erkundung der Welt der Tempelritter. Das Programm ermöglicht den Zugriff auf eine
-kuratierte Sammlung von Inhalten, die sich mit Geschichte, Symbolik, Architektur
-und Philosophie des Templerordens beschäftigen – vollständig offline, ohne KI oder Cloudanbindung.
+**Templerwissen ex Machina** ist ein eigenständig bedienbares Wissenssystem rund um die Tempelritter – ohne Einsatz von Künstlicher Intelligenz.  
+Das Programm richtet sich an historisch Interessierte ebenso wie an Mitglieder moderner Templer-Orden.
 
-> „ex Machina“ steht hier für das bewusste Handeln *aus der Maschine heraus*
-– der Mensch bedient die Software, nicht umgekehrt.
+## ✨ Merkmale
 
----
-
-## 🎯 Ziel des Projekts
-
-Ziel ist es, ein Werkzeug zur Verfügung zu stellen, das Nutzer:innen befähigt,
-sich eigenständig mit den geistigen, kulturellen und historischen Aspekten der
-Templer auseinanderzusetzen. Im Fokus stehen Übersichtlichkeit, Tiefe und
-eigenständige Navigation – kein automatisiertes Generieren oder Interpretieren von Inhalten.
+- 📚 Zugriff auf sorgfältig zusammengestelltes Wissen über die Templer
+- 🔐 Ein passwortgeschützter Bereich für Mitglieder bestimmter Templergruppen
+- 🧭 Intuitive Benutzeroberfläche, ganz ohne KI oder Automatisierung
+- 💡 Ziel: Verstehen, bewahren und weitergeben eines historischen Erbes – **von Menschen für Menschen**
 
 ---
 
-## 🔐 Geschützter Bereich
+## ⚠️ Hinweis
 
-Das Programm enthält einen passwortgeschützten Abschnitt, der ausschließlich Mitgliedern
-des Templerordens vorbehalten ist. Dieser Bereich ist für Inhalte gedacht, die spezielles
-Hintergrundwissen oder eine besondere Zugangsberechtigung voraussetzen.
-
----
-
-## 🧭 Funktionen
-
-- 📚 **Kuratierte Wissensmodule**  
-  Themenbereiche wie Symbolik, Rituale, Geschichte, Architektur, Personen und Orte
-
-- 🔎 **Durchsuchbare Inhalte**  
-  Strukturiertes Browsen durch thematische Kategorien
-
-- 🧱 **Klarer Aufbau, kein „Black Box“-System**  
-  Die Software ist bewusst ohne künstliche Intelligenz oder Cloud-Abhängigkeit entwickelt
-
-- 🖥️ **Plattformunabhängig**  
-  Erstellt mit C++ und Qt6, lauffähig unter Windows (Linux/macOS in Planung)
+Dieses Programm verwendet **keine künstliche Intelligenz**.  
+Es basiert vollständig auf manueller Steuerung und Nutzerinteraktion – der Fokus liegt auf **transparenter Wissensvermittlung** ohne algorithmische Eingriffe.
 
 ---
 
-## 📦 Abhängigkeiten
+## 🔧 Installation
 
-Installiert wird das Projekt über [vcpkg](https://github.com/microsoft/vcpkg). Aktuell genutzte Bibliotheken:
-
-- `qt6-base`
-- `qt6-widgets`
-- `qt6-tools`
+> 📌 Noch in Entwicklung – diese Sektion wird später ergänzt.
 
 ---
 
-## 🛠️ Installation
+## 🔒 Lizenz
 
-1. **vcpkg einrichten (falls nicht vorhanden):**
-   ```bash
-   git clone https://github.com/microsoft/vcpkg.git
-   .\vcpkg\bootstrap-vcpkg.bat
-   ```
+[![Creative Commons License](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-2. **Abhängigkeiten installieren:**
-   ```bash
-   vcpkg install qt6-base qt6-widgets qt6-tools --triplet x64-windows
-   ```
+**Templerwissen ex Machina** von **Jan Friske & SonnerStudio** ist lizenziert unter einer  
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de).
 
-3. **Projekt kompilieren (z. B. mit CMake oder Qt Creator)**
+Das bedeutet:
 
----
-
-## 🗂️ Projektstruktur (Ausblick)
-
-```
-TemplerwissenExMachina/
-├── src/                # Hauptprogramm (C++/Qt)
-├── modules/            # Wissensmodule (Text + Metadaten)
-├── secure/             # Geschützter Bereich (passwortgeschützt)
-├── assets/             # Bilder, Symbole etc.
-├── vcpkg.json          # Abhängigkeitsdefinition
-└── README.md
-```
+- ✅ Sie dürfen das Programm weitergeben und verlinken
+- ❌ Es darf **nicht verändert, bearbeitet oder abgeleitet** werden
+- ❌ Eine **kommerzielle Nutzung ist untersagt**
+- ✅ Namensnennung ist erforderlich
 
 ---
 
-## 📅 Status
+## 🤝 Mitwirkende
 
-Die Software befindet sich in aktiver Entwicklung. GUI, Strukturierung 
-der Module und Passwortbereich sind in Bearbeitung. Technische
-Herausforderungen wie das vcpkg-Setup und Qt6-Integration sind weitgehend gelöst.
-
----
-
-## 🤝 Beteiligung
-
-Dieses Projekt richtet sich in erster Linie an historisch,
-kulturell und spirituell Interessierte mit Bezug zum Templerorden.
-Rückmeldungen, Vorschläge oder technische Unterstützung sind willkommen.
+- **Jan Friske** – Konzeption, Entwicklung & Redaktion  
+- **SonnerStudio** – Kreative und technische Unterstützung
 
 ---
 
-## 📜 Lizenz
+## 📬 Kontakt
 
-Das Projekt ist unter einer:
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) Lizenz veröffentlicht.
+Fragen, Anmerkungen oder Zusammenarbeit?  
+📧 [hbcomputer@freenet.de](mailto:hbcomputer@freenet.de)
 
+---
+
+*Dieses Projekt ist ein nicht-kommerzieller Beitrag zur Vermittlung historischer Inhalte rund um die Tempelritter.*
 
 ---
 
 *„Wissen zu teilen, ist ein Akt des Vertrauens – Wissen zu hüten, ein Zeichen der Verantwortung.“*
 ```
 
----
-
-Wenn du möchtest, kann ich daraus auch eine **deutsche Version** machen – oder eine zweisprachige. Sag einfach Bescheid.
