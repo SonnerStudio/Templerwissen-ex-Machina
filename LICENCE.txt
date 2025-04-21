@@ -1,0 +1,32 @@
+# Lizenz: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+Templerwissen ex Machina  
+(c) 2025 Jan Friske & SonnerStudio
+
+Dieses Werk ist lizenziert unter der Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+## Sie dürfen:
+
+✅ **Teilen** – das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten  
+✅ **Nur für nicht-kommerzielle Zwecke**
+
+… unter den folgenden Bedingungen:
+
+### 1. **Namensnennung**  
+Sie müssen den Namen des Urhebers (Jan Friske & SonnerStudio) nennen, einen Link zur Lizenz einfügen und angeben, ob Änderungen vorgenommen wurden (was allerdings nicht erlaubt ist).
+
+### 2. **Keine Bearbeitungen**  
+Sie dürfen dieses Werk **nicht verändern**, **remixen**, **übersetzen**, **anpassen** oder in anderer Weise **neu zusammensetzen**.
+
+### 3. **Nicht-kommerzielle Nutzung**  
+Sie dürfen das Material **nicht für kommerzielle Zwecke** verwenden.
+
+---
+
+## Lizenzdetails:
+Vollständiger Lizenztext unter:  
+[https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)
+
+---
+
+*Hinweis: Diese Lizenz betrifft nur den Quellcode und die Inhalte dieses Repositories. Die Rechte an historischen Symbolen, Begriffen oder Darstellungen bleiben davon unberührt.*
