@@ -1,6 +1,6 @@
 # 🏰 Templerwissen ex Machina
 
-**Templerwissen ex Machina** ist ein eigenständig bedienbares Wissenssystem rund um die Tempelritter – ohne Einsatz von Künstlicher Intelligenz. Das Programm richtet sich an historisch Interessierte ebenso wie an Mitglieder moderner Templer-Orden im deutschsprachigen D-A-CH-Raum.
+**Templerwissen ex Machina** ist ein eigenständig bedienbares Wissenssystem rund um die Tempelritter – ohne Einsatz von Künstlicher Intelligenz. Das Programm richtet sich an historisch Interessierte, ebenso wie an Mitglieder moderner Templer-Orden, im deutschsprachigen D-A-CH-Raum.
 
 ## ✨ Merkmale
 
