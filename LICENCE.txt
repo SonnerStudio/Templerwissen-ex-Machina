@@ -6,17 +6,23 @@ ENGLISH
 
 © 2025 Jan Friske. All Rights Reserved.
 
-This software (“Templerwissen‑ex‑Machina”) is provided solely as a compiled, installable package for Windows (EXE installer). The complete source code, project files, and internal structure are proprietary and are not distributed. By using this software, you agree not to attempt to decompile, reverse‑engineer, modify, or redistribute any part of the program.
+This software (“Templerwissen‑ex‑Machina”) is provided solely as a compiled, installable package for Windows (EXE installer).
+The complete source code, project files, and internal structure are proprietary and are not distributed. By using this software,
+you agree not to attempt to decompile, reverse‑engineer, modify, or redistribute any part of the program.
 
 Third‑Party Components:
-- PySide6 (Qt for Python) is used under the terms of the GNU Lesser General Public License version 3 (LGPL v3). You may replace or update the PySide6 runtime libraries in the installation folder, in accordance with the LGPL requirements. A copy of the LGPL v3 may be found at:  
-  https://www.gnu.org/licenses/lgpl-3.0.html
+- PySide6 (Qt for Python) is used under the terms of the GNU Lesser General Public License version 3 (LGPL v3).
+You may replace or update the PySide6 runtime libraries in the installation folder, in accordance with the LGPL requirements.
+A copy of the LGPL v3 may be found at:  
+
+https://www.gnu.org/licenses/lgpl-3.0.html
 
 Installation:
 - Run the provided installer. After installation, launch the application via `Templerwissen‑ex‑Machina.exe`.
 
 Warranty & Liability:
-- THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIMS ARISING FROM USE OF THIS SOFTWARE.
+- THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIMS ARISING
+FROM USE OF THIS SOFTWARE.
 
 ----------------------------------------
 DEUTSCH
@@ -24,10 +30,13 @@ DEUTSCH
 
 © 2025 Jan Friske. Alle Rechte vorbehalten.
 
-Diese Software („Templerwissen‑ex‑Machina“) wird ausschließlich als kompiliertes Installationspaket für Windows (EXE‑Installer) bereitgestellt. Der vollständige Quellcode, Projektdateien und die interne Struktur sind proprietär und werden nicht verteilt. Durch die Nutzung dieser Software verpflichten Sie sich, keine Teile des Programms zu dekompilieren, rückzuentwickeln, zu verändern oder weiterzuverbreiten.
+Diese Software („Templerwissen‑ex‑Machina“) wird ausschließlich als kompiliertes Installationspaket für Windows (EXE‑Installer) bereitgestellt.
+Der vollständige Quellcode, Projektdateien und die interne Struktur sind proprietär und werden nicht verteilt.
+Durch die Nutzung dieser Software verpflichten Sie sich, keine Teile des Programms zu dekompilieren, rückzuentwickeln, zu verändern oder weiterzuverbreiten.
 
 Fremdkomponenten:
-- PySide6 (Qt für Python) wird unter den Bedingungen der GNU Lesser General Public License Version 3 (LGPL v3) verwendet. Sie dürfen die PySide6‑Bibliotheken im Installationsordner ersetzen oder aktualisieren, wie es die LGPL v3 erlaubt. Eine Kopie der LGPL v3 finden Sie unter:  
+- PySide6 (Qt für Python) wird unter den Bedingungen der GNU Lesser General Public License Version 3 (LGPL v3) verwendet.
+Sie dürfen die PySide6‑Bibliotheken im Installationsordner ersetzen oder aktualisieren, wie es die LGPL v3 erlaubt. Eine Kopie der LGPL v3 finden Sie unter:  
   https://www.gnu.org/licenses/lgpl-3.0.html
 
 Installation:
