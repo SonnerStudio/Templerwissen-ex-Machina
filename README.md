@@ -9,7 +9,7 @@
 ## ✨ Merkmale
 
 - 📚 **Umfassendes Wissen:** Zugriff auf sorgfältig zusammengestellte Informationen über die Tempelritter  
-- 🔐 **Exklusive Inhalte:** Passwortgeschützter Bereich für Mitglieder bestimmter Templergruppen  
+- 🔐 **Exklusive Inhalte:** Datenpool-Bereich für Anwender direkt im Programm  
 - 🧭 **Benutzerfreundlich:** Intuitive Oberfläche, ganz ohne KI oder Automatisierung  
 - 💡 **Ziel:** Verstehen, bewahren und weitergeben eines historischen Erbes – **von Menschen für Menschen**  
 
