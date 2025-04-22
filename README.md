@@ -1,5 +1,3 @@
----
-
 # 🏰 Templerwissen ex Machina
 
 **Templerwissen ex Machina** ist ein eigenständig bedienbares Wissenssystem rund um die Tempelritter – **ohne Einsatz von Künstlicher Intelligenz**.  
