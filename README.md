@@ -71,7 +71,7 @@ Wir glauben an die Kraft des echten Wissens und die Bedeutung seiner Weitergabe.
 ---
 
 ### 🔹 Änderungen und Ergänzungen:
-- **Struktur klarer und visuell ansprechender gestaltet** (mehr Absätze, mehr Fettungen für wichtige Punkte)
+- **Struktur klarer und visuell ansprechender gestaltet** (mehr Absätze, mehr Fettschrift für wichtige Punkte)
 - **Zusätzliche Erklärungen hinzugefügt** (z.B. zur Lizenz und zum Wissensansatz)
 - **Eingängige Formulierungen für bessere Lesbarkeit**
 - **Call-to-Action** für mögliche Mitwirkende ergänzt
