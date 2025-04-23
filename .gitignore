@@ -1,0 +1,14 @@
+# Ignoriere alle Dateien und Verzeichnisse
+/*
+
+# Ausnahmen für bestimmte Dateien und Verzeichnisse
+!/README.md
+!/LICENSE.txt
+!/.gitignore
+
+# Erlaube das Hochladen von Release-Verzeichnissen
+!/release/
+/release/*
+
+# Ignoriere alle anderen Dateien und Verzeichnisse im Release-Verzeichnis
+/release/**

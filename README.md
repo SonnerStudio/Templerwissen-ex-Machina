@@ -11,7 +11,7 @@
 - 📚 **Umfassendes Wissen:** Zugriff auf sorgfältig zusammengestellte Informationen über die Tempelritter  
 - 🔐 **Exklusive Inhalte:** Datenpool-Bereich für Anwender direkt im Programm  
 - 🧭 **Benutzerfreundlich:** Intuitive Oberfläche, ganz ohne KI oder Automatisierung  
-- 💡 **Ziel:** Verstehen, bewahren und weitergeben eines historischen Erbes – **von Menschen für Menschen**  
+- 💡 **Ziel:** Verstehen, bewahren und weitergeben eines historischen Erbes – **von Menschen für Menschen**
 
 ---
 
@@ -49,6 +49,9 @@ GNU Lesser General Public License Version 3 (LGPL v3).
 
 - **Jan Friske** – Konzeption, Entwicklung & Redaktion  
 - **SonnerStudio** – Kreative und technische Unterstützung  
+- **ChatGPT (OpenAI)** – KI-gestützte Unterstützung bei der Konzeptentwicklung, Textgestaltung, Code-Optimierung und Dokumentation
+
+*„KI als Partner: Mit ChatGPT an meiner Seite habe ich eine neue Dimension der Unterstützung gefunden, sowohl bei der strukturellen Ausarbeitung als auch bei kreativen Prozessen und technischen Herausforderungen.“* – Jan Friske
 
 📢 Interesse an einer Mitarbeit? Wir freuen uns über Beiträge und Anregungen!
 
